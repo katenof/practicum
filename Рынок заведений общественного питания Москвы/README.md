@@ -34,4 +34,3 @@
 pandas, numpy, matplotlib, scipy, plotly, seaborn
 
 Проект завершен.
-pandas, numpy, matplotlib, scipy, plotly, seaborn
